@@ -1,0 +1,13 @@
+{
+  "name": "react-native-cache-async",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "keywords": [],
+  "author": "Maikon Ferreira",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/maikkkko1/react-native-cache-async.git"
+   }
+}
